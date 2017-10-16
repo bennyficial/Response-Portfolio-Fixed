@@ -4,7 +4,7 @@ Enhance the basic-portfolio with a mobile-responsive layout with media queries.
 
 ### Specifications - (No Bootstrap)
 
-1. Inside the `Responsive-Portfolio` folder, find the `styles.css` file. Write your media queries at the bottom of `styles.css`.
+1. Inside the `Responsive-Portfolio` folder, find the `styles.css` file. Write the media queries at the bottom of `styles.css`.
 
 2. Use three `@media screen` tags, each with one of these `max-width`s: `980px`, `768px` and `640px`.
 
